@@ -1,0 +1,12 @@
+# title for the menu (color codes accepted)
+title: "Sample Shop"
+
+#
+# material: material for the item
+# buyPrice: price of the item
+#
+items:
+  1:
+    material: STONE
+    slot: 10
+    buyPrice: 10

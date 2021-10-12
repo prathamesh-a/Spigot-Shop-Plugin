@@ -1,0 +1,12 @@
+# title for the menu (color codes accepted)
+title: "Farmer Merchant"
+
+#
+# material: material for the item
+# buyPrice: price of the item
+# sellPrice: selling price of the item
+#
+items:
+  1:
+    material: SUNFLOWER
+    buyPrice: 10

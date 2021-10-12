@@ -1,0 +1,28 @@
+# title for the menu (color codes accepted)
+title: "Fish Merchant"
+
+# size of the menu
+size: 54
+
+buttons:
+  back:
+    material: ARROW
+    slot: 48
+    name: "&eGo Back"
+
+  close:
+    material: BARRIER
+    slot: 49
+    name: "&cClose"
+
+#
+# material: material for the item
+# slot: slot of the item in the menu (slot must be less than 43)
+# NOTE: FOR NOW YOU CAN ONLY ADD ITEMS UP TP 28
+# buyPrice: price of the item
+#
+items:
+  1:
+    material: SALMON
+    slot: 10
+    buyPrice: 10

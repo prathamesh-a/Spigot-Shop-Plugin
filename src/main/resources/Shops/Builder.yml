@@ -1,0 +1,112 @@
+# title for the menu (color codes accepted)
+title: "Builder Merchant"
+
+#
+# material: material for the item
+# buyPrice: price of the item
+#
+items:
+  1:
+    material: GRASS_BLOCK
+    buyPrice: 50
+    sellPrice: 5
+  2:
+    material: DIRT
+    buyPrice: 30
+    sellPrice: 3
+  3:
+    material: GRAVEL
+    buyPrice: 50
+    sellPrice: 5
+  4:
+    material: COBBLESTONE
+    buyPrice: 30
+    sellPrice: 3
+  5:
+    material: MOSSY_COBBLESTONE
+    buyPrice: 50
+    sellPrice: 5
+  6:
+    material: STONE
+    buyPrice: 50
+    sellPrice: 5
+  7:
+    material: GRANITE
+    buyPrice: 30
+    sellPrice: 8
+  8:
+    material: DIORITE
+    buyPrice: 30
+    sellPrice: 3
+  9:
+    material: ANDESITE
+    buyPrice: 30
+    sellPrice: 3
+  10:
+    material: SNOW_BLOCK
+    buyPrice: 20
+    sellPrice: 2
+  11:
+    material: ICE
+    buyPrice: 30
+    sellPrice: 3
+  12:
+    material: PACKED_ICE
+    buyPrice: 30
+    sellPrice: 3
+  13:
+    material: SPONGE
+    buyPrice: 100
+    sellPrice: 10
+  14:
+    material: SAND
+    buyPrice: 30
+    sellPrice: 3
+  15:
+    material: SANDSTONE
+    buyPrice: 30
+    sellPrice: 3
+  16:
+    material: RED_SANDSTONE
+    buyPrice: 30
+    sellPrice: 3
+  17:
+    material: BRICK
+    buyPrice: 70
+    sellPrice: 7
+  18:
+    material: OBSIDIAN
+    buyPrice: 30
+    sellPrice: 3
+  19:
+    material: NETHERRACK
+    buyPrice: 30
+    sellPrice: 3
+  20:
+    material: GLOWSTONE
+    buyPrice: 50
+    sellPrice: 5
+  21:
+    material: SOUL_SAND
+    buyPrice: 30
+    sellPrice: 3
+  22:
+    material: NETHER_BRICK
+    buyPrice: 50
+    sellPrice: 5
+  23:
+    material: END_STONE
+    buyPrice: 30
+    sellPrice: 3
+  24:
+    material: PRISMARINE
+    buyPrice: 50
+    sellPrice: 5
+  25:
+    material: BOOKSHELF
+    buyPrice: 30
+    sellPrice: 6
+  26:
+    material: ENCHANTING_TABLE
+    buyPrice: 100
+    sellPrice: 20

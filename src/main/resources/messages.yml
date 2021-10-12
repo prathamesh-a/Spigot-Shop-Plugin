@@ -1,0 +1,12 @@
+# Messages
+
+# when item is bought
+# Placeholders:
+#    %item% - Name of the item
+#    %cost% - Price of the item
+buyMessage: "&eShop: &fYou have bought &b%item% &ffor &6%cost% Coins&f."
+
+# low balance message
+# Placeholders:
+#    %needMoney% - amount of money which need to buy the item
+getMoneyMessage: "&eShop: &fYou will need more &6%needMoney% Coins &fto buy this."

@@ -1,0 +1,14 @@
+name: Shop
+version: ${project.version}
+main: prathamesh.shop.Main
+api-version: 1.13
+prefix: Shop
+load: POSTWORLD
+authors: [ Prathamesh ]
+description: A GUI Shop plugin.
+softdepend: [Vault]
+commands:
+  Shop:
+    description: Open the main shop menu.
+    aliases:
+      - shop

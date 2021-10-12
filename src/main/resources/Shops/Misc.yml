@@ -1,0 +1,12 @@
+# title for the menu (color codes accepted)
+title: "Adventurer Merchant"
+
+#
+# material: material for the item
+# buyPrice: price of the item
+#
+items:
+  1:
+    material: NAME_TAG
+    slot: 10
+    buyPrice: 10
